@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-59 104.63741 764.5 438.2252" width="764.5" height="438.2252">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#ff2600">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#ff2600">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#008f00">
+      <g>
+        <path d="M 3.36 0 L 0 -1.26 L 0 1.26 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#008f00">
+      <g>
+        <path d="M 3.36 0 L 0 -1.26 L 0 1.26 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_2">
+      <title>Layer 2</title>
+      <g id="Graphic_5">
+        <circle cx="627.5" cy="209.5" r="19.500031159087" fill="red"/>
+        <circle cx="627.5" cy="209.5" r="19.500031159087" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="510.5" cy="379.5" r="19.5000311590869" fill="red" fill-opacity=".6104098"/>
+        <circle cx="510.5" cy="379.5" r="19.5000311590869" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="445.5" cy="438.5" r="19.500031159087" fill="#ff8080" fill-opacity=".50410576"/>
+        <circle cx="445.5" cy="438.5" r="19.500031159087" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="356.5" cy="469.5" r="19.5000311590869" fill="#008f00" fill-opacity=".831281"/>
+        <circle cx="356.5" cy="469.5" r="19.5000311590869" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Canvas_1_Layer_3">
+      <title>Layer 3</title>
+      <g id="Line_10">
+        <path d="M 609.50616 217.02806 C 586.6526 227.60947 547.4913 249.32035 525 282 C 507.8793 306.8762 504.57635 332.0662 505.3846 350.60925" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_11">
+        <path d="M 491.4777 375.19885 C 479.9087 373.81066 465.56877 374.4519 456 383.1374 C 448.7962 389.67625 445.62173 399.5715 444.4265 409.1965" marker-end="url(#FilledArrow_Marker_2)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <path d="M 427.9793 429.92785 C 416.84035 425.72 402.10062 422.43686 389 427 C 380.17867 430.0726 373.55175 436.19724 368.6635 442.8623" marker-end="url(#FilledArrow_Marker_2)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(563 369.76794)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="#0432ff" x="0" y="16">Steep Gradient</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(480.104 468)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="#0432ff" x="6394885e-19" y="16">Medium Gradient</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(123.34 464)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="#0432ff" x="0" y="16">Shallow Gradient</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(380 337.1084)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="1.807" y="13">Smaller change </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="15.7625" y="29.37709">to weights.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(181.928 151)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="20" fill="black" x="11" y="19">•	If slope &gt; 0 reduce Weight</tspan>
+          <tspan font-family="Helvetica Neue" font-size="20" fill="black" x="11" y="42.56">•	If slope &lt; 0 increase Weight</tspan>
+          <tspan font-family="Helvetica Neue" font-size="20" fill="black" x="11" y="66.119995">•	If slope = 0 Stop</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(466.378 226)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="1.807" y="13">Large change </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="9.945" y="29.37709">to weights.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(342 384.38323)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="1.807" y="13">Little change </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="7.826" y="29.37709">to weights.</tspan>
+        </text>
+      </g>
+      <g id="Line_24">
+        <path d="M -3 107.13741 C -3 107.13741 149.70336 490.4207 350 490.1374 C 550.29664 489.8541 704 106.13741 704 106.13741" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_25">
+        <line x1="450" y1="473.1374" x2="583.9148" y2="339.22262" marker-end="url(#FilledArrow_Marker_3)" stroke="#008f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_26">
+        <line x1="351" y1="502.1374" x2="538.5735" y2="434.53477" marker-end="url(#FilledArrow_Marker_4)" stroke="#008f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <line x1="-4" y1="106.13741" x2="-4" y2="502.1374" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_28">
+        <line x1="704" y1="502.1374" x2="-3" y2="502.1374" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(-38.537586 328.4625) rotate(-90)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="25" fill="black" x="7283063e-19" y="24">Error</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(283 508.1374)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="25" fill="black" x="0" y="24">Weight</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(.9999992 257)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-size="25" fill="#0432ff" x="0" y="24">-error</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(631.25 257)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-size="25" fill="#0432ff" x="0" y="24">+error</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <circle cx="211.5" cy="402.6374" r="19.5000311590869" fill="red" fill-opacity=".5530836"/>
+        <circle cx="211.5" cy="402.6374" r="19.5000311590869" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_35">
+        <path d="M 350.5072 450.9394 C 343.29254 432.7661 328.79728 406.12773 303 394.23206 C 281.31087 384.23074 257.01765 387.1336 238.91634 392.1023" marker-end="url(#FilledArrow_Marker_2)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(211 320.7313)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="15.3855" y="13">Too much of a </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="2.145" y="29.37709">change to weights </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="13" fill="#ff2600" x="1.807" y="45.75418">causes oscillation. </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

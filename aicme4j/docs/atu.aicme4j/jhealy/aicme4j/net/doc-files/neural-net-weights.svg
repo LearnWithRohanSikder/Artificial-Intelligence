@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-181 208 1107 568" width="1107" height="568">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#8efa00">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd579"/>
+      <stop offset="1" stop-color="#ff7e79"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(4.7010686 644.8187) rotate(-1) scale(65.1686)"/>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#0432ff">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#8efa00">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_5" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#0432ff">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_6" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#ff2600">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_109">
+        <path d="M 102.26512 485 C 105.13915 454.6142 120.72396 392.11387 197.5 354 C 264.10017 320.93773 356.762 316.1466 415.10743 317.00895" marker-end="url(#FilledArrow_Marker)" stroke="#8efa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_47">
+        <rect x="431" y="443.66667" width="78.5" height="35.38889" fill="white"/>
+        <rect x="431" y="443.66667" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 450.8611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="1.7392578" y="17">-0.999</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <rect x="431" y="408.2778" width="78.5" height="35.38889" fill="white"/>
+        <rect x="431" y="408.2778" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 415.4722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="7.157715" y="17">0.811</tspan>
+        </text>
+      </g>
+      <g id="Group_81">
+        <g id="Graphic_53">
+          <rect x="-180" y="443.66667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-175 450.8611)" fill="black">
+            <tspan font-family="Menlo" font-size="18" fill="black" x="21.861948" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_50">
+          <rect x="-180" y="408.2778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-175 415.4722)" fill="black">
+            <tspan font-family="Menlo" font-size="18" fill="black" x="21.861948" y="17">0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_48">
+          <rect x="-180" y="372.8889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-175 380.08333)" fill="black">
+            <tspan font-family="Menlo" font-size="18" fill="black" x="21.861948" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <rect x="-180" y="337.5" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-175 344.69444)" fill="black">
+            <tspan font-family="Menlo" font-size="18" fill="black" x="21.861948" y="17">0</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_40">
+        <rect x="431" y="372.8889" width="78.5" height="35.38889" fill="white"/>
+        <rect x="431" y="372.8889" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 380.08333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="7.157715" y="17">0.988</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="431" y="337.5" width="78.5" height="35.38889" fill="white"/>
+        <rect x="431" y="337.5" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 344.69444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="1.7392578" y="17">-0.999</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <rect x="431" y="302.1111" width="78.5" height="35.38889" fill="#d5fc79"/>
+        <rect x="431" y="302.1111" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 309.30556)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="1.7392578" y="17">-0.995</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <rect x="431" y="266.72222" width="78.5" height="35.38889" fill="#c0c0ff"/>
+        <rect x="431" y="266.72222" width="78.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(436 273.91667)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="7.157715" y="17">0.999</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <rect x="831" y="445.1111" width="94.5" height="35.38889" fill="white"/>
+        <rect x="831" y="445.1111" width="94.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(836 452.30556)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="0" y="17">0.999</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <rect x="831" y="409.7222" width="94.5" height="35.38889" fill="white"/>
+        <rect x="831" y="409.7222" width="94.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(836 416.91667)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="0" y="17">-0.0001</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <rect x="831" y="374.33333" width="94.5" height="35.38889" fill="#d5fc79"/>
+        <rect x="831" y="374.33333" width="94.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(836 381.5278)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="0" y="17">0.0008</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <rect x="831" y="338.94444" width="94.5" height="35.38889" fill="#c0c0ff"/>
+        <rect x="831" y="338.94444" width="94.5" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(836 346.1389)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="0" y="17">-0.004</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="5" y="626.55556" width="64.56081" height="35.38889" fill="url(#Obj_Gradient)"/>
+        <rect x="5" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.45</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <rect x="134.12162" y="626.55556" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="134.12162" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(139.12162 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">1.02</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="69.56081" y="626.55556" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="69.56081" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(74.56081 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-6.77</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="134.12162" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(139.12162 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-4.28</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <rect x="69.56081" y="591.1667" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="69.56081" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(74.56081 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">3.67</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <rect x="5" y="591.1667" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="5" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.12</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="5" y="555.7778" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="5" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.43</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="69.56081" y="555.7778" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="69.56081" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(74.56081 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.13</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="134.12162" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(139.12162 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.28</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="5" y="520.3889" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="5" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.48</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="134.12162" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(139.12162 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.34</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="69.56081" y="520.3889" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="69.56081" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(74.56081 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.08</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="69.56081" y="485" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="69.56081" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(74.56081 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-4.06</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="134.12162" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(139.12162 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.09</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="5" y="485" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="5" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.19</tspan>
+        </text>
+      </g>
+      <g id="Graphic_73">
+        <rect x="263.24324" y="626.55556" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="263.24324" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(268.24324 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">1.69</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72">
+        <rect x="198.68243" y="626.55556" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="198.68243" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203.68243 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.73</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <rect x="263.24324" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(268.24324 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.23</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <rect x="198.68243" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203.68243 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.95</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <rect x="198.68243" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203.68243 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.89</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <rect x="263.24324" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(268.24324 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_67">
+        <rect x="263.24324" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(268.24324 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.33</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <rect x="198.68243" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203.68243 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.87</tspan>
+        </text>
+      </g>
+      <g id="Graphic_65">
+        <rect x="198.68243" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203.68243 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.25</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <rect x="263.24324" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(268.24324 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.61</tspan>
+        </text>
+      </g>
+      <g id="Graphic_86">
+        <rect x="327.80405" y="626.55556" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="327.80405" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(332.80405 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.08</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <rect x="327.80405" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(332.80405 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-4.91</tspan>
+        </text>
+      </g>
+      <g id="Graphic_84">
+        <rect x="327.80405" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(332.80405 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">1.70</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <rect x="327.80405" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(332.80405 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.56</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <rect x="327.80405" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(332.80405 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">4.47</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <rect x="537.13514" y="555.7778" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.68</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <rect x="666.25676" y="555.7778" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.72</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <rect x="601.69595" y="555.7778" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <rect x="666.25676" y="520.3889" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <rect x="537.13514" y="520.3889" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <rect x="601.69595" y="520.3889" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <rect x="601.69595" y="485" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <rect x="537.13514" y="485" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">1.69</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <rect x="666.25676" y="485" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.77</tspan>
+        </text>
+      </g>
+      <g id="Graphic_78">
+        <rect x="730.8176" y="555.7778" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="555.7778" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 562.9722)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-1.86</tspan>
+        </text>
+      </g>
+      <g id="Graphic_76">
+        <rect x="730.8176" y="520.3889" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="520.3889" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 527.58333)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.40</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <rect x="730.8176" y="485" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="485" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 492.19444)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-1.95</tspan>
+        </text>
+      </g>
+      <g id="Graphic_99">
+        <rect x="537.13514" y="661.94444" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="661.94444" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 669.1389)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.19</tspan>
+        </text>
+      </g>
+      <g id="Graphic_98">
+        <rect x="666.25676" y="661.94444" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="661.94444" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 669.1389)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_97">
+        <rect x="601.69595" y="661.94444" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="661.94444" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 669.1389)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_96">
+        <rect x="666.25676" y="626.55556" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_95">
+        <rect x="537.13514" y="626.55556" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.01</tspan>
+        </text>
+      </g>
+      <g id="Graphic_94">
+        <rect x="601.69595" y="626.55556" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.01</tspan>
+        </text>
+      </g>
+      <g id="Graphic_93">
+        <rect x="601.69595" y="591.1667" width="64.56081" height="35.38889" fill="#d5fc79"/>
+        <rect x="601.69595" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <rect x="537.13514" y="591.1667" width="64.56081" height="35.38889" fill="#c0c0ff"/>
+        <rect x="537.13514" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.45</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <rect x="666.25676" y="591.1667" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="666.25676" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.04</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <rect x="730.8176" y="661.94444" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="661.94444" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 669.1389)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-2.07</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <rect x="730.8176" y="626.55556" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="626.55556" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 633.75)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.60</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <rect x="730.8176" y="591.1667" width="64.56081" height="35.38889" fill="white"/>
+        <rect x="730.8176" y="591.1667" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 598.3611)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.47</tspan>
+        </text>
+      </g>
+      <g id="Graphic_103">
+        <rect x="537.13514" y="697.3333" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="537.13514" y="697.3333" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(542.13514 704.5278)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">0.29</tspan>
+        </text>
+      </g>
+      <g id="Graphic_102">
+        <rect x="666.25676" y="697.3333" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="666.25676" y="697.3333" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(671.25676 704.5278)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_101">
+        <rect x="601.69595" y="697.3333" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="601.69595" y="697.3333" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(606.69595 704.5278)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x="5.606577" y="17">2.00</tspan>
+        </text>
+      </g>
+      <g id="Graphic_100">
+        <rect x="730.8176" y="697.3333" width="64.56081" height="35.38889" fill="#ff8080"/>
+        <rect x="730.8176" y="697.3333" width="64.56081" height="35.38889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(735.8176 704.5278)" fill="black">
+          <tspan font-family="Menlo" font-size="18" fill="black" x=".18811989" y="17">-0.57</tspan>
+        </text>
+      </g>
+      <g id="Line_105">
+        <path d="M 359.49184 485 C 361.41772 476.89434 367.08565 467.90816 381.5 462.5 C 392.62204 458.3271 407.0876 456.98364 421.10136 456.98297" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_106">
+        <path d="M 290.9965 485 C 289.95088 470.77077 294.7264 451.13446 323.5 438.5 C 349.80235 426.95066 389.58567 424.1378 421.09765 424.03794" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_107">
+        <path d="M 229.52587 485 C 230.0936 464.05314 238.50274 429.35995 283.5 408.2778 C 323.20835 389.67357 380.4721 386.7931 421.1015 387.5992" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_108">
+        <path d="M 165.05884 485 C 165.50386 459.88963 175.29266 413.72706 235.5 384.5 C 290.15982 357.96593 370.0543 353.31302 421.09803 353.45164" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_110">
+        <path d="M 37.46192 485 C 39.941883 450.1609 56.297014 371.98746 149.5 325 C 231.57937 283.6204 347.43104 279.4474 415.10585 281.21566" marker-end="url(#FilledArrow_Marker_3)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_111">
+        <path d="M -147.44313 479.05556 C -145.70545 504.5191 -137.30799 551.6531 -100.5 581 C -72.03678 603.69365 -33.85344 609.9557 -4.902059 610.9403" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_112">
+        <path d="M -115.43919 422.32376 C -106.92454 425.0118 -97.79902 431.1997 -89.5 443.66667 C -64.22364 481.6374 -94.41752 523.22544 -58.5 560 C -42.86299 576.0101 -22.687444 580.63345 -4.88894 580.7501" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_113">
+        <path d="M -115.43919 386.8995 C -105.33657 389.24447 -93.85139 395.26348 -82.5 408.2778 C -50.42432 445.05234 -68.43439 483.6143 -34.5 520.3889 C -24.53545 531.18743 -14.233615 537.1699 -4.651778 540.23354" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_114">
+        <path d="M -115.43919 350.97962 C -105.98603 353.76194 -94.83372 360.13688 -82.5 372.8889 C -44.19161 412.4965 -46.43439 458.22544 -12.5 495 C -9.214612 498.56036 -6.098772 501.50345 -3.150445 503.9154" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_115">
+        <text transform="translate(-72.49999 258.1829)" fill="#0432ff">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#0432ff" x="0" y="16">(0 * -2.19) + (1 * 2.48) + (0 * 2.43) + (1 * 2.12) + </tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="#0432ff" y="16">0.45</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#0432ff" y="16"> = 5.05</tspan>
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="#0432ff" x="140.312" y="35.46411">tanh</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#0432ff" y="35.46411">(5.05) = 0.999</tspan>
+        </text>
+      </g>
+      <g id="Graphic_117">
+        <text transform="translate(-38 634.51794)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="16" fill="black" x="73896445e-20" y="16">Bias</tspan>
+        </text>
+      </g>
+      <g id="Graphic_118">
+        <text transform="translate(296.24303 213.5)" fill="#941100">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="24" fill="#941100" x="0" y="23">Hidden Layer (6 Nodes)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_119">
+        <text transform="translate(-172 213.5)" fill="#941100">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="24" fill="#941100" x="4689582e-19" y="23">Input Layer (4 Nodes)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_120">
+        <text transform="translate(-41.604495 673.5)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="19" fill="#ff2600" x="0" y="19">Weights (4 rows for inputs + bias x 6 cols for outputs)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_121">
+        <text transform="translate(652.273 214.52163)" fill="#941100">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="24" fill="#941100" x="0" y="23">Output Layer (4 Nodes)</tspan>
+        </text>
+      </g>
+      <g id="Line_123">
+        <path d="M 635.0282 485 C 638.46175 464.3617 651.2783 430.43614 697 409.7222 C 732.0807 393.82912 778.1704 389.50215 815.0932 389.09913" marker-end="url(#FilledArrow_Marker_4)" stroke="#8efa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_122">
+        <path d="M 568.3145 485 C 568.91864 458.7196 578.98587 409.32804 641 380 C 691.8787 355.93818 763.81125 351.96106 815.1069 352.84634" marker-end="url(#FilledArrow_Marker_5)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_124">
+        <text transform="translate(425.9755 746.5)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="19" fill="#ff2600" x="0" y="19">Weights (6 rows for inputs + bias x 4 cols for outputs)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_125">
+        <text transform="translate(840.611 299.5)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="19" fill="#ff2600" x="0" y="19">Softmax</tspan>
+        </text>
+      </g>
+      <g id="Line_126">
+        <path d="M 519.5 358.83445 C 519.5 358.83445 539.9084 357.3366 553.5 375.33445 C 560.5241 384.6357 564.02055 396.8835 565.75955 406.54814" marker-end="url(#FilledArrow_Marker_6)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_127">
+        <text transform="translate(553.5 330.25282)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="19" fill="#ff2600" x="0" y="19">Weighted Sum</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
